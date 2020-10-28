@@ -17,6 +17,7 @@
 * [Poniente Presente - Información sobre Maipú](https://www.instagram.com/poniente.presente)
 *  [Asamblea General Cerillos](https://www.instagram.com/asambleageneralcerrillos/)
 * [Vecinos Movilizados Maipú](https://www.instagram.com/vm_maipu/)
+* [Red de abastecimiento Maipú](https://www.instagram.com/abastecimiento.maipu/) 	
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
@@ -60,7 +61,7 @@ Actividades:
 ---
 ### Describir temas de interés y/o trabajo: 
 #### Organización comunitaria, apoyo barrial, "se realizan proyectos comunes en pos de un mejor vivir y territorio".  
-![imagen](Imágenes/LP1.png) 
+![imagen](Imag/LP1.png) 
 ###### Fuente: Segunda Publicación 6 Nov 2019.
 ---
 ### Describir la imagen ideal por la cual se trabaja.
