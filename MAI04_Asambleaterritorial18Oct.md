@@ -75,7 +75,11 @@ Actividades:
 * Actividades artísticas: teatro y música
 * Rifas Solidarias 
 * Onces comunitarias 
-* Ollas comunes 
+* Ollas común "Don Clota"
+* Asamblea de mujeres y discidencias barrio Clotario Blest
+* Archivo histórico del barrio [Instagram archivo histórico barrio Clotario Blest](https://www.instagram.com/archivobarrioclotarioblest)
+* Plaza Karakol "Centro educativo y comunitario para la agroecología experimental, soberanía alimentaria y reforestación nativa" [Instagram Plaza Karakol](https://www.instagram.com/plazakarakol/)
+* Boletines mensuales (desde Julio 2020) "La Golondrina Rebelde" [Ver aquí boletines](https://asamblea18deoctubr.wixsite.com/website/boletines)
 
 
 ---
@@ -84,13 +88,13 @@ Actividades:
 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
-
+#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*) 
+### Asambleismo y horizontalidad. Actitudes declaradas en página web: "Perseverancia - Trabajo en equipo - Compromiso -Responsabilidad -  Autocrítica - Respeto -Resiliencia"
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
 **Iconos:**
-
+![linkear imagen](Imag/AT18.png)
 **Banderas:**
 
 **Diseño estético:**
@@ -100,11 +104,11 @@ Actividades:
 ---
 ### Percepciones que se tiene del Estado
 #### (Aparato burocrático)
-> resumen de lo encontrado
+> Se visibiliza desconfianza y repudio al Estado en todos sus niveles: central y también local (Municipio), exigiendo la destitución de la Alcaldesa Kathy Barriga
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|"El estado y el empresariado son verdaderos terroristas" | ![linkear imagen](Imag/estado18.png) Publicación Ig 5 Sept 2020|
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
