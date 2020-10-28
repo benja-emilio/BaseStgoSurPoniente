@@ -71,20 +71,20 @@ Actividades:
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
 Asambleas, velatón (conmemoración asesinato Catrillanca), jornadas de muralismo, cerámica, taller audiovisual/fotografías "contra la imagen dominante", taller de primeros auxilios y RCP. Taller introductorio al mapuzugun, colecta a favor de los presos de la revuelta, completadas solidarias para vecinos afectados por incendios.
-![imagen](ImAG/ActLP.png) 
+![imagen](Imag/ActLP.png) 
 ### Mural Asamblea Las Parcelas 
-![imagen](ImAG/Mural.png) 
+![imagen](Imag/Mural.png) 
 ###### Fuente: Publicación Ig 20 Nov 2019, ubicación: al costado de los bomberos en el "descanso"
 ### Taller Contra la Imagen dominante junto con asamblea Pudahuel Sur y Escuela Popular de Cine Chile
-![imagen](ImAG/Tallercine.png) 
+![imagen](Imag/Tallercine.png) 
 ###### Fuente: Publicación Ig 28 Nov 2019 
 ### Taller de Primeros Auxilios 
-![imagen](ImAG/RCP.png) 
+![imagen](Imag/RCP.png) 
 ###### Fuente: Publicación Ig 4 Diciembre 2019
 
 ### Papelógrafo Cronograma Asamblea
 Se devela organización extra comunal, pertencimiento a red de Asambleas Territoriales Autogestionadas (ATA)
-![imagen](ImAG/fechasLP.png) 
+![imagen](Imag/fechasLP.png) 
 ###### Fuente: Publicación Ig 8 Diciembre 2019
 ---
 
@@ -94,7 +94,7 @@ Se devela organización extra comunal, pertencimiento a red de Asambleas Territo
 * "Recuperemos nuestro barrio" 
 * "Recuperemos nuesro espacio"
 * Participación en la red de abastecimiento de maipú 
- ![imagen](ImAG/barrio.png) 
+ ![imagen](Imag/barrio.png) 
  ###### Fuente: Publicación Ig 24 Enero 2020
 ---
 ### Tipo de organización interna: 
@@ -106,7 +106,7 @@ Se devela organización extra comunal, pertencimiento a red de Asambleas Territo
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 Se utiliza la palabra pueblo, solidaridad, colaboración, y asamblea constituyente. A partir de la pandemia y las movilizaciones por el hambre, se comienzan a incluir publicaciones (videos) alusivas a protestas de comunas vecinas (el bosque por ejemplo). Se intensifican las publicaciones alusivas a protestas, barricadas, y críticas duras y burlas directa al gobierno (Julio-Agosto) con el juicio de Martín Prádenas, caso Ambar, caso Machi Celestino córdova. Se sube una publicación haciendo lusión a la "neo dictadura", con una imagen de piñera/bigote Hitler). 
- ![imagen](ImAG/neodictadura.png) 
+ ![imagen](Imag/neodictadura.png) 
  ###### Fuente: Publicación Ig 2 Agosto 2020
 
  ![imagen](Imag/no+.png) 
